@@ -5,13 +5,16 @@
 ## Start Setup
 
 ### terminal input
+``` bash
 vue install --global vue-cli
 vue init webpack licensee
 cd licensee
 npm install
 npm run dev
+```
 
 ###  project setting
+``` bash
 Project name licensee
 ? Project description study licensee
 ? Author hani.run <>
@@ -24,7 +27,7 @@ Project name licensee
 ? Setup e2e tests with Nightwatch? No
 ? Should we run `npm install` for you after the project has been created? (recom
 mended) npm
-
+```
 
 ## Build Setup
 
